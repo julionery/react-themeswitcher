@@ -7,9 +7,9 @@ Exemplo de Tema Light/Dark com salvamento no localstorage.
  - [TypeScript](https://www.typescriptlang.org/)
 
 ### :computer: Bibliotecas e ferramentas
- - Styled Components
- - Polished
- - React Switch
+ - [Styled Components](https://styled-components.com/)
+ - [Polished](https://polished.js.org/)
+ - [React Switch](https://github.com/markusenglund/react-switch#readme)
 
 ### :link: Links Úteis
  - [Paleta de Colors](https://coolors.co/app)
