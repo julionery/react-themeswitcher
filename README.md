@@ -17,7 +17,7 @@ Exemplo de Tema Light/Dark com salvamento no localstorage.
  
 <h2 align="center">Demonstração</h2>
 
-![](https://github.com/julionery/docs/blob/master/images/thema.gif?raw=true)
+![](https://github.com/julionery/docs/blob/master/geral/thema.gif?raw=true)
 
 
 ### :information_source: Como Usar
